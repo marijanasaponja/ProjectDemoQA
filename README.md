@@ -1,0 +1,3 @@
+# ProjectDemoQA
+This is the final project from the IT Bootcamp course.
+The part of the website https://demoqa.com/ is tested in IntelliJ IDEA, using Java, Selenium WebDriver, TestNG, POM...
